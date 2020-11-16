@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caixa Não Tem</string>
+    <string name="btLogin">Entrar</string>
+    <string name="viewTransactionFragment">Transações</string>
+    <string name="viewBalanceFragment">Saldo</string>
+    <string name="chooseRecipientFragment">Pagamentos</string>
+</resources>
